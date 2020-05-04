@@ -13,6 +13,7 @@
         <module>hive-function</module>
         <module>MyMath</module>
         <module>MyMath2</module>
+        <module>MyMath3</module>
     </modules>
     <dependencies>
         <dependency>
