@@ -12,6 +12,7 @@
         <module>flume-interceptor</module>
         <module>hive-function</module>
         <module>MyMath</module>
+        <module>MyMath2</module>
     </modules>
     <dependencies>
         <dependency>
